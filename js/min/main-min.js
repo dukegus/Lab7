@@ -1,0 +1,1 @@
+$(".toggle").click(function(){$(".toggle + p").fadeToggle("Fast")});

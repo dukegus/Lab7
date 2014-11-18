@@ -2,151 +2,198 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "18027",
 "files": {
-	"\/foundation-essentials-5.4.7\/css\/foundation.css": {
+	"\/css\/foundation.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/css\/foundation.css",
+		"inputAbbreviatedPath": "\/css\/foundation.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/foundation-essentials-5.4.7\/css\/foundation.min.css": {
+	"\/css\/foundation.min.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/css\/foundation.min.css",
+		"inputAbbreviatedPath": "\/css\/foundation.min.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/foundation-essentials-5.4.7\/css\/normalize.css": {
+	"\/css\/main.css": {
 		"fileType": 16,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/css\/normalize.css",
+		"inputAbbreviatedPath": "\/css\/main.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/foundation-essentials-5.4.7\/index.html": {
+	"\/css\/normalize.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/normalize.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/index.html",
+		"inputAbbreviatedPath": "\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/foundation-essentials-5.4.7\/js\/foundation.min.js": {
+	"\/js\/foundation.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/foundation.min.js",
-		"outputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/min\/foundation.min-min.js",
+		"inputAbbreviatedPath": "\/js\/foundation.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/foundation.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/foundation-essentials-5.4.7\/js\/foundation\/foundation.dropdown.js": {
+	"\/js\/foundation\/foundation.dropdown.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/foundation\/foundation.dropdown.js",
-		"outputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/foundation\/min\/foundation.dropdown-min.js",
+		"inputAbbreviatedPath": "\/js\/foundation\/foundation.dropdown.js",
+		"outputAbbreviatedPath": "\/js\/foundation\/min\/foundation.dropdown-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/foundation-essentials-5.4.7\/js\/foundation\/foundation.interchange.js": {
+	"\/js\/foundation\/foundation.interchange.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/foundation\/foundation.interchange.js",
-		"outputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/foundation\/min\/foundation.interchange-min.js",
+		"inputAbbreviatedPath": "\/js\/foundation\/foundation.interchange.js",
+		"outputAbbreviatedPath": "\/js\/foundation\/min\/foundation.interchange-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/foundation-essentials-5.4.7\/js\/foundation\/foundation.js": {
+	"\/js\/foundation\/foundation.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/foundation\/foundation.js",
-		"outputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/foundation\/min\/foundation-min.js",
+		"inputAbbreviatedPath": "\/js\/foundation\/foundation.js",
+		"outputAbbreviatedPath": "\/js\/foundation\/min\/foundation-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/foundation-essentials-5.4.7\/js\/foundation\/foundation.reveal.js": {
+	"\/js\/foundation\/foundation.reveal.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/foundation\/foundation.reveal.js",
-		"outputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/foundation\/min\/foundation.reveal-min.js",
+		"inputAbbreviatedPath": "\/js\/foundation\/foundation.reveal.js",
+		"outputAbbreviatedPath": "\/js\/foundation\/min\/foundation.reveal-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/foundation-essentials-5.4.7\/js\/vendor\/fastclick.js": {
+	"\/js\/main.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/vendor\/fastclick.js",
-		"outputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/vendor\/min\/fastclick-min.js",
+		"inputAbbreviatedPath": "\/js\/main.js",
+		"outputAbbreviatedPath": "\/js\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 0
+		},
+	"\/js\/min\/main-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/main-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/main-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/foundation-essentials-5.4.7\/js\/vendor\/jquery.cookie.js": {
+	"\/js\/vendor\/fastclick.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/vendor\/jquery.cookie.js",
-		"outputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/vendor\/min\/jquery.cookie-min.js",
+		"inputAbbreviatedPath": "\/js\/vendor\/fastclick.js",
+		"outputAbbreviatedPath": "\/js\/vendor\/min\/fastclick-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/foundation-essentials-5.4.7\/js\/vendor\/jquery.js": {
+	"\/js\/vendor\/jquery.cookie.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/vendor\/jquery.js",
-		"outputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/vendor\/min\/jquery-min.js",
+		"inputAbbreviatedPath": "\/js\/vendor\/jquery.cookie.js",
+		"outputAbbreviatedPath": "\/js\/vendor\/min\/jquery.cookie-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/foundation-essentials-5.4.7\/js\/vendor\/modernizr.js": {
+	"\/js\/vendor\/jquery.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/vendor\/modernizr.js",
-		"outputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/vendor\/min\/modernizr-min.js",
+		"inputAbbreviatedPath": "\/js\/vendor\/jquery.js",
+		"outputAbbreviatedPath": "\/js\/vendor\/min\/jquery-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/foundation-essentials-5.4.7\/js\/vendor\/placeholder.js": {
+	"\/js\/vendor\/modernizr.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/vendor\/placeholder.js",
-		"outputAbbreviatedPath": "\/foundation-essentials-5.4.7\/js\/vendor\/min\/placeholder-min.js",
+		"inputAbbreviatedPath": "\/js\/vendor\/modernizr.js",
+		"outputAbbreviatedPath": "\/js\/vendor\/min\/modernizr-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/js\/vendor\/placeholder.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/vendor\/placeholder.js",
+		"outputAbbreviatedPath": "\/js\/vendor\/min\/placeholder-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scss\/main.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/main.scss",
+		"outputAbbreviatedPath": "\/css\/main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
 		}
 	},
 "hooks": [

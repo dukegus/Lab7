@@ -4,3 +4,32 @@ h1, h2, h3, h4, h5 , h6 {
    color: $main_color; 
 }
 
+@mixin rounded($radius) {
+    -webkit-border-radius:$radius;
+    -moz-border-radius:$radius;
+    -o-border-radius:$radius;
+    -ms-border-radius:$radius;
+    border-radius:$radius;
+}
+
+/* example of place holder
+%rounded {
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -o-border-radius:10px;
+    -ms-border-radius:10px;
+    border-radius:10px;
+} used like this: @extend %rounded; */
+.rounded {
+    border: 2px solid black;
+    @include rounded(10px);
+}
+
+.other {
+    border: 2px solid black;
+    @include rounded(5px);
+    }
+
+.yet-another {
+    @include rounded(3px);
+}
